@@ -2,8 +2,8 @@
 COVID Resources for india
 
 
-
-https://covidhelp.glideapp.io
+[I'm an inline-style link](https://www.google.com)
+(https://covidhelp.glideapp.io)
 https://covid19-twitter.in
 https://www.covid19resourcesindia.com/
 https://covidsupport.xyz/tweets/
