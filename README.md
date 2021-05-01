@@ -2,12 +2,12 @@
 COVID Resources for india
 
 
-[I'm an inline-style link](https://www.google.com)
+(https://www.google.com)
 (https://covidhelp.glideapp.io) <br />
 https://covid19-twitter.in <br />
-https://www.covid19resourcesindia.com/
-https://covidsupport.xyz/tweets/
-https://www.covid19resourcesindia.com/
-https://covidplasma.online
-https://covidhelp.teamsaath.me/
-https://linktr.ee/indiatimes
+https://www.covid19resourcesindia.com/ <br /> <br />
+https://covidsupport.xyz/tweets/ <br />
+https://www.covid19resourcesindia.com/ <br />
+https://covidplasma.online <br />
+https://covidhelp.teamsaath.me/ <br />
+https://linktr.ee/indiatimes <br />
